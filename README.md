@@ -4,7 +4,7 @@
 # The Tropicalist 5" Frame Kit
 Developed to be the best FPV frame in the world, no matter what is your application. Born in Brazil.
 
-PT_BR: Se você quer entender melhor do frame assim como seus aspectos principais, em portugês, acesse [www.tropicalfpv.com]
+PT_BR: Se você quer entender melhor do frame assim como seus aspectos principais, em portugês, acesse www.tropicalfpv.com
 
 ## Quick Notice
 This project was initially close-source. We opened to be part of a greater achievement for the FPV community, as well as to expand reach and dissipate knowledge. By doing so, we lost a great share of revenue. To support its constant evolution, [consider a donation][1].
