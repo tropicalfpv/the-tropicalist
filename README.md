@@ -26,7 +26,7 @@ The Tropicalist Frame is based on scientific research to approach a feasible, hi
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International Public License][3]. This means that you can use, modify, and benefit from the project, including commercial use. This license, however, obligates you or any party to maintain the name of the product as copywriting and share any projects related to it under the same Open Source License. This means that if you use in part of your design, yours needs to be open source too.
 
 
-[1]: http://example.com/
+[1]: https://patreon.com/TropicalFPV
 [2]: https://github.com/tropicalfpv/the-tropicalist/blob/main/GUIDELINES.md
 [3]: https://github.com/tropicalfpv/the-tropicalist/blob/main/LICENSE
 [4]: https://github.com/tropicalfpv/the-tropicalist/blob/main/ASSEMBLY.md
