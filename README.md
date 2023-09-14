@@ -1,5 +1,5 @@
 
-![Capture](https://github.com/tropicalfpv/the-tropicalist/assets/11741656/1d201f7c-8d34-4164-b577-39ad95939a15)
+![Capture](https://github.com/tropicalfpv/the-tropicalist/assets/11741656/d018c031-92ef-4f55-b1c3-5182f39c825f)
 
 
 # The Tropicalist 5" Frame Kit
