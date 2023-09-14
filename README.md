@@ -1,7 +1,7 @@
 
 ![Capture](https://github.com/tropicalfpv/the-tropicalist/assets/11741656/fde5a074-dd45-4e2b-919b-b77e2e7adf29)
 
-# The Tropicalist 5" Frame Kit
+# The Tropicalist 5" FPV Open Source Frame Kit
 Developed to be the best FPV frame in the world, no matter what is your application. Born in Brazil.
 
 PT_BR: Se você quer entender melhor do frame assim como seus aspectos principais, em portugês, acesse www.tropicalfpv.com
