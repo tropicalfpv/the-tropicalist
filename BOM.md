@@ -4,7 +4,7 @@ Please note that these are affiliate links. By using them, you help to support t
 
 ## Frame Cut Parts
 Use this link to buy the cut after the quote is sent to you: https://s.click.aliexpress.com/e/_Dlow8zd.
-Feel free to select your best cut shop, but watch out for bad quality carbon! We recommend Sunlike because they offer ready cuts, and use a great compound. Email info@sunlikecc.com for a quote of the files. 
+Feel free to select your best cut shop, but watch out for bad-quality carbon! We recommend Sunlike because they offer ready cuts, and use a great compound. Email info@sunlikecc.com for a quote of the files. 
 
 ## Hardware Parts
 If you are using the affiliate links, please select the correct part after you are redirected.
