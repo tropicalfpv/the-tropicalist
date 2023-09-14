@@ -1,5 +1,5 @@
 
-![Capture](https://github.com/tropicalfpv/the-tropicalist/assets/11741656/85d68538-db21-4955-bca2-d4b89f8f9c81)
+![Capture](https://github.com/tropicalfpv/the-tropicalist/assets/11741656/b8c2f742-91e7-49ff-913a-313498eb59bf)
 
 # The Tropicalist 5" Frame Kit
 Developed to be the best FPV frame in the world, no matter what is your application. Born in Brazil.
