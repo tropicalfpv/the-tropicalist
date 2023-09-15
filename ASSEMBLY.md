@@ -2,7 +2,7 @@
 
 PT_BR - Se você está procurando instruções de montagem em portugês, voce pode encontrá-las [aqui][1]
 
-If you want to build and assemble The Tropicalist frame yourself, follow these guidelines. The build is simple and pretty straight forward, so you should not have a complicated time doing it.
+If you want to build and assemble The Tropicalist frame yourself, follow these guidelines. The build is simple and pretty straightforward, so you should not have a complicated time doing it.
 
 ## Components List
 1. 1 Bottom Plate
@@ -25,7 +25,7 @@ All screws are steel, standoffs and Nuts are Aluminium
 9. 4x M3x35mm 6mm diameter Aluminium standoff
 10. 8X M3 Parlock Nut
 
-Additional screws maybe needed if you want to fix other components, such as VTXs for example. The list bellow is not necessary, but may also help.
+Additional screws may be needed if you want to fix other components, such as VTXs for example. The list below is not necessary, but may also help.
 
 1. 4x M3x6mm Hex
 2. 4x M2x8mm Hex
@@ -34,8 +34,8 @@ You can also have the 3D Prints as your choice, so check the 3D Prints Folder fo
 
 ## Building Instructions
 
-I'm still formating for the new version, but you can see the pictures [here][1]
+I'm still formatting for the new version, but you can see the pictures [here][1]
 
 
 
-[1] https://tropicalfpv.com/the-tropicalist-welcome/
+[1]: https://tropicalfpv.com/the-tropicalist-welcome/
