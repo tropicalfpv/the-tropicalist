@@ -17,7 +17,7 @@ The Tropicalist Frame Kit was initially developed in 2020 during the pandemic, d
 
 The Frame is a perfect X configuration, has 5mm arms, and is designed for up to 5.1in props. It has enough space for analog and digital builds and it's designed to carry a camera on top, as well as a 4s-6s battery.
 
-For the Frame to perform at its best, is expected that fabrication using 3K plain matte carbon, from a good supplier is used. In all tests, the best-performing carbon fiber plates were from Sunlike (please send files to quote to info@sunlikecc.com). If you are using other composites or materials be aware that it can be extremely poor on performance, since the materials' mechanical properties are key in this design.
+For the Frame to perform at its best, is expected that fabrication using 3K plain matte carbon, from a good supplier is used. If you are using other composites or materials be aware that it can be extremely poor on performance, since the materials' mechanical properties are key in this design.
 
 ## Scientific-Based Research
 The Tropicalist Frame is based on scientific research to approach a feasible, high-frequency resonant frame. It is also tested in Structural FEA Analysis Software (such as Ansys Mechanical) before being released. All major changes should include a FEA Analysis and field testing prior to being considered a new release under the main branch. If you want to consider collaborating on this project, [please follow the guidelines here for contributing][2], and our step-by-step process to have PRs accepted. We do this to guarantee the highest standard in design quality and best practices, so users and the community can rely on a frame without being super nerds about mechanical aspects. They just trust, and that´s enough :)
