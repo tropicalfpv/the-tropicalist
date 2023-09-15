@@ -2,7 +2,9 @@
 
 PT_BR - Se você está procurando instruções de montagem em portugês, voce pode encontrá-las [aqui][1]
 
-If you want to build and assemble The Tropicalist frame yourself, follow these guidelines. The build is simple and pretty straightforward, so you should not have a complicated time doing it.
+If you want to build and assemble The Tropicalist frame yourself, follow these guidelines. The build is simple and pretty straightforward, so you should not have a complicated time doing it. 
+
+**Do you already have everything? Check the [Bill of Materials][2] page for a list of components to buy.**
 
 ## Components List
 1. 1 Bottom Plate
@@ -39,3 +41,4 @@ I'm still formatting for the new version, but you can see the pictures [here][1]
 
 
 [1]: https://tropicalfpv.com/the-tropicalist-welcome/
+[2]: https://github.com/tropicalfpv/the-tropicalist/blob/main/BOM.md
