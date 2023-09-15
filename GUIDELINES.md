@@ -1,5 +1,5 @@
 
-![sim](https://github.com/tropicalfpv/the-tropicalist/assets/11741656/47cd23d8-ff8e-4c9e-876a-cf4a24c91723)
+![sim](https://github.com/tropicalfpv/the-tropicalist/assets/11741656/cdd2c993-011d-4b8a-ad27-a27e44c40b57)
 
 # Contribuition Guidelines
 We truly believe that people who want to contribute to this project have the power, and freedom, to do so. To keep the best quality possible, we have made a guideline to ensure that we only go forward, not backward.
