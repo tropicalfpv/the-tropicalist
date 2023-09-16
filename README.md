@@ -33,6 +33,8 @@ The Tropicalist Frame is based on scientific research to approach a feasible, hi
 ## Licenses & Right to Use :closed_lock_with_key:
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International Public License][3]. This means that you can use, modify, and benefit from the project, including commercial use. This license, however, obligates you or any party to maintain the name of the product as copywriting and share any projects related to it under the same Open Source License. This means that if you use in part of your design, yours needs to be open source too.
 
+## Found a Problem? :goberserk:
+It's ok, you don't need to fix it, you can let us know to do so. Just [open an Issue here][9] and be detailed about what happened. 
 
 [1]: https://patreon.com/TropicalFPV
 [2]: https://github.com/tropicalfpv/the-tropicalist/blob/main/GUIDELINES.md
@@ -42,3 +44,4 @@ This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 
 [6]: https://github.com/tropicalfpv/the-tropicalist/blob/main/BOM.md
 [7]: https://discord.gg/JvUaVDHNnM
 [8]: https://github.com/tropicalfpv/the-tropicalist/tree/main/Project/Fusion%203D%20Files
+[9]: https://github.com/tropicalfpv/the-tropicalist/issues/new
