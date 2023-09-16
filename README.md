@@ -24,8 +24,11 @@ The Frame is a perfect X configuration, has 5mm arms, and is designed for up to 
 
 For the Frame to perform at its best, is expected that fabrication using 3K plain matte carbon, from a good supplier is used. If you are using other composites or materials be aware that it can be extremely poor on performance, since the materials' mechanical properties are key in this design.
 
+### Editing and Modifying the Files :rocket:
+You can modify and download the original Autodesk Fusion 3D Files. Those are available [here][8]. If you want to consider collaborating on this project, [please follow the guidelines here for contributing][2], and our step-by-step process to have PRs accepted.
+
 ### Scientific-Based Research :microscope:
-The Tropicalist Frame is based on scientific research to approach a feasible, high-frequency resonant frame. It is also tested in Structural FEA Analysis Software (such as Ansys Mechanical) before being released. All major changes should include a FEA Analysis and field testing prior to being considered a new release under the main branch. If you want to consider collaborating on this project, [please follow the guidelines here for contributing][2], and our step-by-step process to have PRs accepted. We do this to guarantee the highest standard in design quality and best practices, so users and the community can rely on a frame without being super nerds about mechanical aspects. They just trust, and that´s enough :)
+The Tropicalist Frame is based on scientific research to approach a feasible, high-frequency resonant frame. It is also tested in Structural FEA Analysis Software (such as Ansys Mechanical) before being released. All major changes should include a FEA Analysis and field testing prior to being considered a new release under the main branch. We do this to guarantee the highest standard in design quality and best practices, so users and the community can rely on a frame without being super nerds about mechanical aspects. They just trust, and that´s enough :)
 
 ## Licenses & Right to Use :closed_lock_with_key:
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International Public License][3]. This means that you can use, modify, and benefit from the project, including commercial use. This license, however, obligates you or any party to maintain the name of the product as copywriting and share any projects related to it under the same Open Source License. This means that if you use in part of your design, yours needs to be open source too.
@@ -38,4 +41,4 @@ This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 
 [5]: https://github.com/tropicalfpv/the-tropicalist/tree/main/Project/Carbon%20Cut%20Files
 [6]: https://github.com/tropicalfpv/the-tropicalist/blob/main/BOM.md
 [7]: https://discord.gg/JvUaVDHNnM
-
+[8]: https://github.com/tropicalfpv/the-tropicalist/tree/main/Project/Fusion%203D%20Files
