@@ -30,8 +30,6 @@ You can modify and download the original Autodesk Fusion 3D Files. Those are ava
 ### Scientific-Based Research :microscope:
 The Tropicalist Frame is based on scientific research to approach a feasible, high-frequency resonant frame. It is also tested in Structural FEA Analysis Software (such as Ansys Mechanical) before being released. All major changes should include a FEA Analysis and field testing prior to being considered a new release under the main branch. We do this to guarantee the highest standard in design quality and best practices, so users and the community can rely on a frame without being super nerds about mechanical aspects. They just trust, and that´s enough :)
 
-<img src= >
-
 <figure>
     <img src="https://github.com/tropicalfpv/the-tropicalist/assets/11741656/d1cfa552-576e-4b4b-9f9e-650e504bb428"
       width="40%" height="40%"
