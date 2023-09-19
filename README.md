@@ -30,6 +30,22 @@ You can modify and download the original Autodesk Fusion 3D Files. Those are ava
 ### Scientific-Based Research :microscope:
 The Tropicalist Frame is based on scientific research to approach a feasible, high-frequency resonant frame. It is also tested in Structural FEA Analysis Software (such as Ansys Mechanical) before being released. All major changes should include a FEA Analysis and field testing prior to being considered a new release under the main branch. We do this to guarantee the highest standard in design quality and best practices, so users and the community can rely on a frame without being super nerds about mechanical aspects. They just trust, and that´s enough :)
 
+<img src= >
+
+<figure>
+    <img src="https://github.com/tropicalfpv/the-tropicalist/assets/11741656/d1cfa552-576e-4b4b-9f9e-650e504bb428"
+      width="40%" height="40%"
+         alt="iflight xl5 blackbox">
+    <figcaption>Iflight XL5</figcaption>
+</figure>
+
+<figure>
+    <img src="https://github.com/tropicalfpv/the-tropicalist/assets/11741656/132785b1-4786-4f58-93a3-b82f0b9cd3b8)"
+      width="40%" height="40%"
+         alt="the tropcalist blackbox">
+    <figcaption>The Tropicalist</figcaption>
+</figure>
+
 ## Licenses & Right to Use :closed_lock_with_key:
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International Public License][3]. This means that you can use, modify, and benefit from the project, including commercial use. This license, however, obligates you or any party to maintain the name of the product as copywriting and share any projects related to it under the same Open Source License. This means that if you use in part of your design, yours needs to be open source too.
 
