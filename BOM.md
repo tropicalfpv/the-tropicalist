@@ -24,4 +24,17 @@ If you are using the affiliate links, please select the correct part after you a
 - 4x M3x35mm 6mm diameter Aluminium standoff (https://s.click.aliexpress.com/e/_DC3XDLV)
 - 8x M3 Parlock Nut (https://s.click.aliexpress.com/e/_DDdlpIF)
 
+
+## Cost (US Dollar)
+The biggest cost is of the carbon fiber plates, mainly the arms.
+- Carbon plates (entire kit for one frame): ~$62,00
+- Hardware Kit (Standoffs): ~$6,00
+- Hardware Kit (Screws): $5,00
+- 3D printed parts: ~$8,00
+- Shipping (CN to BR): ~$10,00
+**Total Cost approximated is ~$91,00**
+
+Depending on where you live, this can range up and down by about 15%.
+
 [1]: https://github.com/tropicalfpv/the-tropicalist/blob/main/Project/Carbon%20Cut%20Files/Carbon%20Cut%20Files.zip
+
