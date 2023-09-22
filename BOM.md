@@ -27,12 +27,12 @@ If you are using the affiliate links, please select the correct part after you a
 
 ## Cost (US Dollar)
 The biggest cost is of the carbon fiber plates, mainly the arms.
-- Carbon plates (entire kit for one frame): ~$62,00
+- Carbon plates (entire kit for one frame): ~$58,00
 - Hardware Kit (Standoffs): ~$6,00
 - Hardware Kit (Screws): $5,00
 - 3D printed parts: ~$8,00
 - Shipping (CN to BR): ~$10,00
-**Total Cost approximated is ~$91,00**
+**Total Cost approximated is ~$89,00**
 
 Depending on where you live, this can range up and down by about 15%.
 
