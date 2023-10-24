@@ -13,7 +13,7 @@ This project was initially close-source. We opened to be part of a greater achie
 
 ## Short Read :envelope:
 This frame was developed to be easily assembled, strong, and accessible for any 5' FPV build. Focused on having a better performance than traditional frames with respect to resonant frequencies, it is a great build for cinematics and freestyle pilots. 
-1. Start by downloading the latest files under the [Carbon Cut Files][5] page,
+1. Start by downloading the latest files under the [Releases][5] page,
 2. You can order the parts to construct the frame using this [Bill of Materials][6],
 3. Follow the [instructions for fabrication][4]
 
@@ -46,7 +46,7 @@ It's ok, you don't need to fix it, you can let us know to do so. Just [open an I
 [2]: https://github.com/tropicalfpv/the-tropicalist/blob/main/GUIDELINES.md
 [3]: https://github.com/tropicalfpv/the-tropicalist/blob/main/LICENSE
 [4]: https://github.com/tropicalfpv/the-tropicalist/blob/main/ASSEMBLY.md
-[5]: https://github.com/tropicalfpv/the-tropicalist/tree/main/Project/Carbon%20Cut%20Files
+[5]: [https://github.com/tropicalfpv/the-tropicalist/releases
 [6]: https://github.com/tropicalfpv/the-tropicalist/blob/main/BOM.md
 [7]: https://discord.gg/JvUaVDHNnM
 [8]: https://github.com/tropicalfpv/the-tropicalist/tree/main/Project/Fusion%203D%20Files
