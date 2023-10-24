@@ -6,6 +6,10 @@ If you want to build and assemble The Tropicalist frame yourself, follow these g
 
 **Do you already have everything? Check the [Bill of Materials][2] page for a list of components to buy.**
 
+## Instructions
+Follow this video with assembly instructions:
+https://www.youtube.com/watch?v=X8bwbNJvkuo
+
 ## Components List
 1. 1 Bottom Plate
 2. 4 Arms
@@ -16,16 +20,16 @@ If you want to build and assemble The Tropicalist frame yourself, follow these g
 ## Hardware List
 All screws are steel, standoffs and Nuts are Aluminium
 
-1. 8x M3x14mm Hex
-2. 8x M3x6mm Hex
-3. 4x M3x20mm Flathead Hex (stack option 1)
-4. 4x M3x8mm Flathead Hex (stack option 2)
-5. 4x M3x16mm Hex
-6. 16x M3x8mm Hex (Motor Screws)
-7. 4x 4x M3x6mm Flathead Hex
-8. 4x M3x30mm 6mm diameter Aluminium standoff
-9. 4x M3x35mm 6mm diameter Aluminium standoff
-10. 8X M3 Parlock Nut
+- 8x M3x14mm Hex (https://s.click.aliexpress.com/e/_Dn0yasj)
+- 8x M3x6mm Hex (https://s.click.aliexpress.com/e/_Dn0yasj)
+- 4x M3x20mm Flathead Hex (stack option 1) (https://s.click.aliexpress.com/e/_DnrfiV5) 
+- 4x M3x8mm Flathead Hex (stack option 2) (https://s.click.aliexpress.com/e/_DnrfiV5)
+- 4x M3x16mm Hex (https://s.click.aliexpress.com/e/_Dn0yasj)
+- 16x M3x8mm Hex (Motor Screws) (https://s.click.aliexpress.com/e/_DksbGjv)
+- 4x M3x6mm Flathead Hex (https://s.click.aliexpress.com/e/_DnrfiV5)
+- 4x M3x30mm 6mm diameter Aluminium standoff (https://s.click.aliexpress.com/e/_DC3XDLV)
+- 4x M3x35mm 6mm diameter Aluminium standoff (https://s.click.aliexpress.com/e/_DC3XDLV)
+- 8x M3 Parlock Nut (https://s.click.aliexpress.com/e/_DDdlpIF)
 
 Additional screws may be needed if you want to fix other components, such as VTXs for example. The list below is not necessary, but may also help.
 
