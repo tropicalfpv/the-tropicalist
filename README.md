@@ -46,7 +46,7 @@ It's ok, you don't need to fix it, you can let us know to do so. Just [open an I
 [2]: https://github.com/tropicalfpv/the-tropicalist/blob/main/GUIDELINES.md
 [3]: https://github.com/tropicalfpv/the-tropicalist/blob/main/LICENSE
 [4]: https://github.com/tropicalfpv/the-tropicalist/blob/main/ASSEMBLY.md
-[5]: [https://github.com/tropicalfpv/the-tropicalist/releases
+[5]: https://github.com/tropicalfpv/the-tropicalist/releases
 [6]: https://github.com/tropicalfpv/the-tropicalist/blob/main/BOM.md
 [7]: https://discord.gg/JvUaVDHNnM
 [8]: https://github.com/tropicalfpv/the-tropicalist/tree/main/Project/Fusion%203D%20Files
