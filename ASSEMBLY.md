@@ -1,4 +1,4 @@
-# Assemble Process of The Tropicalist
+# Assembly Process of The Tropicalist
 
 PT_BR - Se você está procurando instruções de montagem em portugês, voce pode encontrá-las [aqui][1]
 
