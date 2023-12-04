@@ -1,4 +1,4 @@
-# Bill of Materials and Manufacturing Instructions
+# Bill of Materials and Ordering Instructions
 You can buy using your favorite store/supplier. We recommend the following ones:
 Please note that these are affiliate links. By using them, you help to support the project with a commission that has no additional cost to you :)
 
