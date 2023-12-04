@@ -14,7 +14,7 @@ This project was initially close-source. We opened to be part of a greater achie
 ## Short Read :envelope:
 This frame was developed to be easily assembled, strong, and accessible for any 5' FPV build. Focused on having a better performance than traditional frames with respect to resonant frequencies, it is a great build for cinematics and freestyle pilots. 
 1. Start by downloading the latest files under the [Releases][5] page,
-2. You can order the parts to construct the frame using this [Bill of Materials and Manufacturing Instructions][6],
+2. You can order the parts to construct the frame using this [Bill of Materials and Ordering Instructions][6],
 3. Follow the [instructions for fabrication][4]
 
 ## Long Read :book:
