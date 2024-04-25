@@ -3,7 +3,7 @@ You can buy using your favorite store/supplier. We recommend the following ones:
 Please note that these are affiliate links. By using them, you help to support the project with a commission that has no additional cost to you :)
 
 ## Frame Cut Parts
-Good-quality carbon is a must! We recommend Sunlike because they offer ready cuts, and use a great fiber+resin mix (3k plain matte). Email info@sunlikecc.com with a zip of the ['Latest Release of the Carbon Cut Files'][1] for a quote and then use this link to pay after the quote is sent to you: https://s.click.aliexpress.com/e/_Dlow8zd. You should select the amount of dollars that were quoted as the quantity of the items since each one is exactly one dollar. **You can also pay by PayPal, so you don't get a big amount in Aliexpress (mainly for Brazilian customers). Ask Sunlike for the instructions in your email**
+Good-quality carbon is a must! We recommend Sunlike because they offer ready cuts, and use a great fiber+resin mix (3k plain matte). Email info@sunlikeec.com with a zip of the ['Latest Release of the Carbon Cut Files'][1] for a quote and then use this link to pay after the quote is sent to you: https://s.click.aliexpress.com/e/_Dlow8zd. You should select the amount of dollars that were quoted as the quantity of the items since each one is exactly one dollar. **You can also pay by PayPal, so you don't get a big amount in Aliexpress (mainly for Brazilian customers). Ask Sunlike for the instructions in your email**
 
 PT_BR: Para detalhes sobre como comprar sem uma taxa abusiva do Remessa Conforme, me chame no insta @tropical.fpv
 
